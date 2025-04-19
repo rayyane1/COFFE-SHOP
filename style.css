@@ -139,3 +139,38 @@ display: flex;
    justify-content: center;
    gap: 16px;
  }
+ .n4{
+   text-align: center;
+
+ }
+ footer{
+   background-color: #facabb;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   padding: 10px;
+ }
+ .liste{
+   display: flex;
+   justify-content: flex-end;
+   gap: 10px;
+   margin: 10px;
+ }
+.blo{
+   display: flex;
+   flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+ .liste li{
+   list-style-type: circle;
+ }
+ .btn{
+   display: flex;
+   gap: 8px;
+ }
+ .liste p{
+   color: #FB9374;
+ }
